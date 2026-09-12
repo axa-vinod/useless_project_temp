@@ -62,6 +62,10 @@ The interface is designed with a playful visual style and responsive interaction
 
 ## Installation
 
+Clone the repository:
+
+git clone https://github.com/axa-vinod/QWERTYn-t.git
+
 Install the required dependencies:
 
 ```bash
@@ -90,18 +94,17 @@ For Software:
 
 ## Screenshots
 
-![Screenshot1](screenshots/home.png)
+![Screenshot1](home.jpeg)
 
-*Main interface of QWERTYn't showing the interactive typing area and keyboard.*
+*Main typing interface with the remapped keyboard.*
 
-![Screenshot2](screenshots/typing.png)
+![Screenshot2](typing.jpeg)
 
-*Typing interface demonstrating the project's intentionally unpredictable keyboard behavior.*
+*Time-based typing mode with a countdown option.*
 
-![Screenshot3](screenshots/result.png)
+![Screenshot3](result.jpeg)
 
-*Final interaction/result displayed after the user completes the typing challenge.*
-
+*Typing mode with numbers enabled and remapped input.*
 ## Diagrams
 
 ![Workflow](screenshots/workflow.png)
