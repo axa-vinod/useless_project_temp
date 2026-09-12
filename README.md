@@ -95,15 +95,15 @@ For Software:
 
 ## Screenshots
 
-![Screenshot1](home.png)
+![Screenshot1](home.jpeg)
 
 *Main typing interface with the remapped keyboard.*
 
-![Screenshot2](typing.png)
+![Screenshot2](typing.jpeg)
 
 *Time-based typing mode with a countdown option.*
 
-![Screenshot3](result.png)
+![Screenshot3](result.jpeg)
 
 *Typing mode with numbers enabled and remapped input.*
 
