@@ -1,97 +1,122 @@
 <img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 
-
-# [Project Name] 🎯
-
+# QWERTYn't — The Keyboard That Disagrees 🎯
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name: QWERTYn't
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+* Team Lead: Angelina Binoy - St. Joseph College Of Engineering And Technology, Palai 
+* Member 2: Aksa Vinod -  St. Joseph College Of Engineering And Technology, Palai 
 
 ### Project Description
-[2-3 lines about what your project does]
+
+QWERTYn't is a fun, intentionally useless web project that turns a normal typing experience into a frustrating and unpredictable one. Instead of simply accepting what the user types, the keyboard reacts in unexpected and humorous ways.
+
+The project is designed purely for entertainment, trolling, and demonstrating how ordinary user interactions can be turned into a deliberately chaotic experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
+Typing is already far too convenient.
+
+Users can press a key and confidently expect the correct character to appear. There is absolutely no reason for this level of reliability.
+
+QWERTYn't solves this completely unnecessary problem by making the keyboard disagree with the user and introducing chaos into an otherwise perfectly functional typing experience.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+
+QWERTYn't provides a deliberately unpredictable typing interface where the user's input can be altered, rejected, or responded to in humorous ways.
+
+The project takes a familiar keyboard interface and turns it into an unnecessarily complicated experience designed to make users question whether they are typing correctly—or whether the keyboard simply has its own opinions.
 
 ## Technical Details
+
 ### Technologies/Components Used
+
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Vite
+* Git & GitHub
+* Web browser
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
+* No special hardware required
+* Computer/Laptop with keyboard
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+For Software:
+
+The application implements an interactive keyboard and typing interface using React. User interactions are captured through keyboard and UI events, and the application dynamically processes the input to produce the intentionally unexpected behavior.
+
+The interface is designed with a playful visual style and responsive interactions to make the typing experience feel more like an interactive prank than a conventional keyboard.
+
+## Installation
+
+Install the required dependencies:
+
+```bash
+npm install
+```
+
+## Run
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will normally be available at:
+
+```text
+http://localhost:3000/
+```
+
+Open the displayed local URL in a web browser to interact with QWERTYn't.
 
 ### Project Documentation
+
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+## Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](screenshots/home.png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Main interface of QWERTYn't showing the interactive typing area and keyboard.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot2](screenshots/typing.png)
 
-For Hardware:
+*Typing interface demonstrating the project's intentionally unpredictable keyboard behavior.*
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Screenshot3](screenshots/result.png)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+*Final interaction/result displayed after the user completes the typing challenge.*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+## Diagrams
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Workflow](screenshots/workflow.png)
 
-![Final](Add photo of final product here)
-*Explain the final build*
+*Workflow showing the interaction between user input, keyboard events, application logic, and the displayed output.*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+## Demos
 
-# Additional Demos
-[Add any extra demo materials/links]
-
+* Live/Local Demo: 
+* GitHub Repository:
+  
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+* **Angelina Binoy:** Backend development
+* **Aksa Vinod:** Frontend development
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
