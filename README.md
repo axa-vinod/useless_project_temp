@@ -64,7 +64,7 @@ The interface is designed with a playful visual style and responsive interaction
 
 Clone the repository:
 
-git clone https://github.com/axa-vinod/QWERTYn-t.git
+git clone 'https://github.com/axa-vinod/useless_project_temp.git'
 
 Install the required dependencies:
 
@@ -107,14 +107,14 @@ For Software:
 *Typing mode with numbers enabled and remapped input.*
 ## Diagrams
 
-![Workflow](screenshots/workflow.png)
+![Workflow](workflow.png)
 
 *Workflow showing the interaction between user input, keyboard events, application logic, and the displayed output.*
 
 ## Demos
 
 * Live/Local Demo: 
-* GitHub Repository:
+* GitHub Repository: 'https://github.com/axa-vinod/useless_project_temp'
   
 ## Team Contributions
 
